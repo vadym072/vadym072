@@ -8,12 +8,12 @@
 😐 &nbsp; I'm an individual **senior web full-stack developer** with 5+ years experiences.\
 💪 &nbsp; These are my key strengths\
 &nbsp; ✅ &nbsp; Frontend: React/Next.js, Vue3/Nuxt.js,Typescript, HTML/CSS/JS, Bootstrap, Tailwind, Flowbite, Radix etc.\
-&nbsp; ✅ &nbsp; Backend: Node.js, Laravel, Python, Django, Flask, FastAPI, Shopify, WordPress etc.\
-&nbsp; ✅ &nbsp; AI: ChatGPT integration, ML, LLM\
-&nbsp; ✅ &nbsp; APIs: Restful, GraphQL\
-&nbsp; ✅ &nbsp; Databases: MySQL, PostgreSQL, MongoDB etc.\
+&nbsp; ✅ &nbsp; Backend: Node.js, Laravel, Python, Django etc.\
+&nbsp; ✅ &nbsp; AI: ChatGPT integration, ML, LLM, RAG. \
+&nbsp; ✅ &nbsp; APIs: Restful, GraphQL,FastAPI. \
+&nbsp; ✅ &nbsp; Databases: MySQL, PostgreSQL, MongoDB, Supabase, Firebase, Prisma etc.\
 &nbsp; ✅ &nbsp; Tools/Automation: GitHub, GitLab, Docker, etc.\
-&nbsp; ✅ &nbsp; Other Skills: SEO-friendly, Pixel-Perfect Design, Clean Code, Code restructuring, Problem solving.\
+&nbsp; ✅ &nbsp; Other Skills: SEO-friendly, Pixel-Perfect Design, Clean Code, Code restructuring, Problem solving.
 
 ### 🛠 &nbsp;Tech Stack
 
